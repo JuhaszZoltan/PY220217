@@ -1,0 +1,30 @@
+modulok:
+- osztály kutyus néven
+	-> neve
+	-> fajta
+	-> eletkor
+
+főprogram:	
+-> lista sintertelep néven -> ami kutyákat tartalmaz
+
+# feltölt()
+-> bekéri a program kutyák adatait rendre
+-> ha mind3 adat megvan, akkor hozzáad egy kutyust a sintértelephez
+-> ha valamelyik tulajdonság üres
+   akkor nem folytatódik a bekérés
+
+# 3db fg:
+-> vizslák száma [megszámlálás tétele]
+-> milyen fajtájú a legöregebb kutya [maximum sze.]
+-> bekérek egy fajtát -> 
+-> az összes ilyen fajtájú kutya nevétr kiírja
+
+sintertelep = [
+    m.Kutsus('Béla 1', 'vizsla', 7),
+    m.Kutsus('Béla 2', 'németjuhász', 7),
+    m.Kutsus('Béla 3', 'puli', 9),
+    m.Kutsus('Béla 4', 'vizsla', 12),
+    m.Kutsus('Béla 5', 'puli', 5),
+    m.Kutsus('Béla 6', 'vizsla', 2),
+    m.Kutsus('Béla 7', 'vizsla', 9),
+]
