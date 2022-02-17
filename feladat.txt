@@ -26,5 +26,4 @@ sintertelep = [
     m.Kutsus('Béla 4', 'vizsla', 12),
     m.Kutsus('Béla 5', 'puli', 5),
     m.Kutsus('Béla 6', 'vizsla', 2),
-    m.Kutsus('Béla 7', 'vizsla', 9),
-]
+    m.Kutsus('Béla 7', 'vizsla', 9)]
